@@ -1,0 +1,27 @@
+.logo{
+    
+    width: 180px;
+}
+
+.container{
+   margin-bottom: 200px;
+}
+
+.button{
+    background-color:#21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 40px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-family: Roboto;
+    margin-left: 23px;
+}
+.font{
+    font-family: Poppins;
+}
+.section-1{
+   background-color: #F0FFF0;
+   margin-bottom: 200px;
+  
+}
