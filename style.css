@@ -3,10 +3,6 @@
     width: 180px;
 }
 
-.container{
-   margin-bottom: 200px;
-}
-
 .button{
     background-color:#21B573;
     color: #ffffff;
@@ -22,6 +18,23 @@
 }
 .section-1{
    background-color: #F0FFF0;
-   margin-bottom: 200px;
+   margin-bottom: 40px;
   
+}
+.img{
+    margin-top: 0;
+    width: 80px;
+    margin-bottom: 30px;
+}
+h5{
+    margin-top: 20px;
+    font-family: Poppins;
+}
+.card1{
+    margin-top: 0;
+}
+.col{
+    margin-top: 0;
+    margin-bottom: 81px;
+    border-radius: 10px;
 }
