@@ -30,6 +30,9 @@ h5{
     margin-top: 20px;
     font-family: Poppins;
 }
+.margin-bottom{
+    margin-bottom: 60px;
+}
 .card1{
     margin-top: 0;
 }
@@ -37,4 +40,10 @@ h5{
     margin-top: 0;
     margin-bottom: 81px;
     border-radius: 10px;
+}
+.card-body{
+    border-radius: 30px ;
+}
+.margin-right{
+   margin-right: 23px;
 }
