@@ -61,3 +61,12 @@ footer{
     
     text-align: center;
 }
+.hover:hover{
+    background-image: linear-gradient(to bottom, DarkGreen 0%, darkBlue 100% );
+    font-size: 25px;
+}
+.hover-blog:hover{
+    background-image: linear-gradient(to bottom, DarkGreen 0%, darkBlue 100% );
+    font-size: 45px;
+    
+}
