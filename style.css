@@ -41,9 +41,12 @@ h5{
     margin-bottom: 81px;
     border-radius: 10px;
 }
-.card-body{
-    border-radius: 30px ;
+.border{
+    border-radius: 40px ;
 }
 .margin-right{
    margin-right: 23px;
+}
+.testimonial{
+    margin-bottom: 81px;
 }
